@@ -11,17 +11,18 @@
     
 ---
 <p align="center">
- <a href="https://github.com/mshamsi502" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-github.svg" width="64" alt="Github" /></a>
- <a width="64" /></a>
-<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-gilab.svg" width="64" alt="Gitlab" /></a>
- <a width="64" /></a>
-<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-stackoverflow.svg" width="64" alt="stackoverflow" /></a>
- <a width="64" /></a>
-<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-stackexchange.svg" width="64" alt="stackoverflow" /></a>
- <a width="64" /></a>
-<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-stackexchange.svg" width="64" alt="stackoverflow" /></a>
- <a width="64" /></a>
-<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-stackexchange.svg" width="64" alt="stackoverflow" /></a>
+ <a href="https://github.com/mshamsi502" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-github.svg" width="32" alt="Github" /></a>
+ <a width="256" /></a>
+<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-gitlab.svg" width="32" alt="Gitlab" /></a>
+ <a width="256" /></a>
+<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-stackoverflow.svg" width="32" alt="StackOverflow" /></a>
+ <a width="256" /></a>
+<a href="https://meta.stackexchange.com/users/831494/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-stackexchange.svg" width="32" alt="StackExchange" /></a>
+ <a width="256" /></a>
+<a href="" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-octocat.svg" width="32" alt="OctoCat" /></a>
+</p>
+
+<p align="center">
  <a width="64" /></a>
 <a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-stackexchange.svg" width="64" alt="stackoverflow" /></a>
  <a width="64" /></a>
