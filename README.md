@@ -4,6 +4,8 @@
     💡 Intersted in BlockChain, AI and Opoen-Source Projects.
 
     🔭 My Current Focus is to Broaden and Deepen My Knowledge in TypeScript and NodeJS.
+    
+[Download My Resume]()
    
 
 <!--
