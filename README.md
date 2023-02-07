@@ -9,21 +9,17 @@
 
     🔭 My Current Focus is to Broaden and Deepen My Knowledge in TypeScript and NodeJS.
     
-    
+---
+<p align="center">
+ <a href="https://github.com/mshamsi502" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/icon-stack-overflow.svg" width="64" alt="Github" /></a>
+ <a width="64" /></a>
+<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/icon-stack-overflow.svg" width="64" alt="Gitlab" /></a>
+ <a width="64" /></a>
+<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/icon-stack-overflow.svg" width="64" alt="stackoverflow" /></a>
+ <a width="64" /></a>
+<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/icon-stack-overflow.svg" width="64" alt="stackoverflow" /></a>
+ <a width="64" /></a>
+<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/icon-stack-overflow.svg" width="64" alt="stackoverflow" /></a>
+</p>
 
-   
 
-<!--
-**mshamsi502/mshamsi502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
