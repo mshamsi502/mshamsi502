@@ -11,15 +11,28 @@
     
 ---
 <p align="center">
- <a href="https://github.com/mshamsi502" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/icon-stack-overflow.svg" width="64" alt="Github" /></a>
+ <a href="https://github.com/mshamsi502" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-github.svg" width="64" alt="Github" /></a>
  <a width="64" /></a>
-<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/icon-stack-overflow.svg" width="64" alt="Gitlab" /></a>
+<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-gilab.svg" width="64" alt="Gitlab" /></a>
  <a width="64" /></a>
-<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/icon-stack-overflow.svg" width="64" alt="stackoverflow" /></a>
+<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-stackoverflow.svg" width="64" alt="stackoverflow" /></a>
  <a width="64" /></a>
-<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/icon-stack-overflow.svg" width="64" alt="stackoverflow" /></a>
+<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-stackexchange.svg" width="64" alt="stackoverflow" /></a>
  <a width="64" /></a>
-<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/icon-stack-overflow.svg" width="64" alt="stackoverflow" /></a>
+<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-stackexchange.svg" width="64" alt="stackoverflow" /></a>
+ <a width="64" /></a>
+<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-stackexchange.svg" width="64" alt="stackoverflow" /></a>
+ <a width="64" /></a>
+<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-stackexchange.svg" width="64" alt="stackoverflow" /></a>
+ <a width="64" /></a>
+<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-stackexchange.svg" width="64" alt="stackoverflow" /></a>
+ <a width="64" /></a>
+<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-stackexchange.svg" width="64" alt="stackoverflow" /></a>
+ <a width="64" /></a>
+<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-stackexchange.svg" width="64" alt="stackoverflow" /></a> <a width="64" /></a>
+<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-stackexchange.svg" width="64" alt="stackoverflow" /></a>
+ <a width="64" /></a>
+<a href="https://stackoverflow.com/users/3649103/mohammad-shamsi" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-stackexchange.svg" width="64" alt="stackoverflow" /></a>
 </p>
 
 
