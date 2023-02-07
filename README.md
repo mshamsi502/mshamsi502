@@ -41,7 +41,7 @@
 <a href="https://t.me/mohammad_shamsiii" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-telegram.svg" width="32" alt="Telegram" /></a>
 <a href="https://wa.me/qr/V2U2MFTS75LFB1" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-whatsapp.svg" width="32" alt="Whatsapp" /></a>
 <a href="https://www.reddit.com/u/mshamsi502" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-reddit.svg" width="32" alt="Reddit" /></a>
-<a href="discordapp.com/users/810406670055899166" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-discord.svg" width="32" alt="Discord" /></a>
+<a href="https://www.discordapp.com/users/810406670055899166" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-discord.svg" width="32" alt="Discord" /></a>
 <a href="https://www.youtube.com/@user-st9xt1bu8n" target="blank"><img src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-youtube.svg" width="32" alt="Youtube" /></a>
 <a href="" target="blank"><img style="opacity: 0.2;" src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-instagram.svg" width="32" alt="Instagram" /></a>
 <a href="" target="blank"><img  style="opacity: 0.2;" src="https://github.com/mshamsi502/mshamsi502/blob/main/assets/images/icons/svg/social-media/icon-twitter.svg" width="32" alt="Twitter" /></a>
