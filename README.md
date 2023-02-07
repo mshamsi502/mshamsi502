@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=26&duration=6000&pause=1000&color=84A98C&vCenter=true&width=440&lines=Hi+there 👋+I'm+Mohammad!;A+Developer;A+Backend+NodeJS+Developer;Structure+&+Farmeworks+Person;A+Mobile+Application+Developer;A+Joyful+Flutter+Developer;A+Curious+and+Interested+Person+About+Design;Nice+to+meet+you.)](https://git.io/typing-svg)
+
+
+    💡 Intersted in BlockChain, AI, Opoen-Source Projects.
+
+    🔭 My current focus is to broaden and deepen my knowledge in TypeScript and NodeJS
+   
+
 <!--
 **mshamsi502/mshamsi502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
