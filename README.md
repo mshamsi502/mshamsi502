@@ -1,4 +1,4 @@
-[Download My Resume](https://github.com/mshamsi502/mshamsi502/blob/main/my-resume/my-resume-20221108.pdf)
+[Download My Resume](https://github.com/mshamsi502/mshamsi502/blob/main/my-resume/my-resume-20230728.pdf)
 
 ---
 
